@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'MangoByeolbyeol';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405-3@1.1/MangoByeolbyeol.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MangoDdobak-B';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405-3@1.1/MangoDdobak-B.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+body{
+    background-color: #1C1C1F;
+}
+div #explain{
+    color: white;
+    display: inline-block;
+    position: absolute;
+}
+div img{
+    border-right: 1px solid white;
+}
+
+#stat{
+    color: white;
+    font-family: MangoByeolByeol;
+    font-size: 50px;
+
+}
